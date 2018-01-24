@@ -21,7 +21,7 @@
                                         <archive>
                                                 <manifest>
                                                         <addClasspath>true</addClasspath>
-                                                        <mainClass>net.wpitchoune.Main</mainClass>
+                                                        <mainClass>net.wpitchoune.duplicate.Main</mainClass>
                                                 </manifest>
                                         </archive>
                                 </configuration>
